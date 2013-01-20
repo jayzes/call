@@ -20,4 +20,5 @@ more interesting or can be executed better by others?
 - Beyond PaaS - when you need to build your own
 - Choosing your balance point between Dev and Ops
 - Tackling asynchronicity with client-server promises
-- Acceptance testing by developers for developers - writing tests for your APIs
+- Acceptance testing by developers for developers - a new approach to writing tests for your APIs
+- Chatops for consultants
