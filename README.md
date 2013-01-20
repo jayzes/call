@@ -1,6 +1,6 @@
-# A collection of talk ideas and proposals
+# A Collection of CFP Responses, Talk Ideas, and Proposals
 
-Following @bkeepers' lead, I thought it'd be a cool idea to start a repo
+Following [Brandon Keepers](https://github.com/bkeepers/cfp)' lead, I thought it'd be a cool idea to start a repo
 with some talk ideas and submissions to keep better track of them, as
 well as to get them out in the open. Who knows, maybe some of these are
 more interesting or can be executed better by others?
