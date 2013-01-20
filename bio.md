@@ -1,0 +1,1 @@
+Jay Zeschin is a director and developer at Mode Set, an agile software consultancy based in Denver, Colorado. He's worked with Ruby for over 5 years and in a variety of environments, from enterprise IT consulting to advertising to early-stage startups. When he's not hacking away you can usually find him somewhere in the mountains skiing or running (depending on the season).
