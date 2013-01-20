@@ -1,0 +1,9 @@
+# Minimum Viable Rails
+
+As recent drama has emphasized, Rails is a toolchain that's specifically curated to ease the process of building medium-sized apps with a moderate level of
+complexity. Most of the time, we push the boundaries of that curated approach on the side of building larger and more complicated apps. However, what of the opposite side of that equation - simpler, smaller apps? 
+
+In this talk, I'll explore the idea of stripping the framework back to its bare minimum in order to build the most minimum product possible, then adding framework and functionality in at the same time as the application grows. I'll explore the benefits and drawbacks of this approach, strategies for executing well, and discuss some ways in which this approach can inform your overall application architecture well beyond its initial stages.
+
+## Notes
+I've been kicking around this idea for some time - a lot of our clients are early stage companies trying to get the most for their development spend, so for us as developers, being efficient and effective with every step of the process is really critical to them being able to achieve their goals and move to the next step, whatever that may be. There's a lot of material out there that talks about code complexity and the liability associated with just having a certain volume of code in your codebase, as well as the liability of external dependencies, but not much going into the idea of breaking down the preconceived notions of those dependencies at a very early stage. We've had projects where we use a single-file Rails app to build out a static landing page (built with Haml and Sass), then evolved it to a pre-launch page, then built out quantums of functionality each iteration that build on that very small base. It's an approach we've had a lot of success with that I haven't seen too much in the wild, so I thought it'd be cool to explore it further in talk format.
