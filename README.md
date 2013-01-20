@@ -22,3 +22,5 @@ more interesting or can be executed better by others?
 - Tackling asynchronicity with client-server promises
 - Acceptance testing by developers for developers - a new approach to writing tests for your APIs
 - Chatops for consultants
+- Where does idiomatic style come from?
+- API design and the uncanny valley
